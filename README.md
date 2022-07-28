@@ -28,13 +28,10 @@
 5. https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA
 6. https://www.youtube.com/c/2ndQuadrantPostgreSQL/playlists
 
-// PostgreSQL中文社区
-1. https://space.bilibili.com/601631547/video
-// Greenplum中文社区
-2. https://space.bilibili.com/489184136/video
-// 中国PostgreSQL分会
-3. https://space.bilibili.com/521087625/video
-// digoal
-4. https://space.bilibili.com/310191812/video
-// 北京CUUG
-5. https://space.bilibili.com/250508046/video
+<hr>
+
+1. https://space.bilibili.com/601631547/video /* PostgreSQL中文社区 */
+2. https://space.bilibili.com/489184136/video /* Greenplum中文社区 */
+3. https://space.bilibili.com/521087625/video /* 中国PostgreSQL分会 */
+4. https://space.bilibili.com/310191812/video /* digoal */
+5. https://space.bilibili.com/250508046/video /* 北京CUUG */
