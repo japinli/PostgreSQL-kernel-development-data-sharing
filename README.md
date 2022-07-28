@@ -12,6 +12,7 @@ Provide relevant kernel learning materials for small partners engaged in Postgre
 4. https://github.com/citusdata/
 5. https://github.com/timescale/
 6. https://github.com/IvorySQL/
+7. https://github.com/tangwz/db-monthly /* 阿里云数据库内核月报分类整理 */
 
 
 # 相关文档链接(Related Documentation Links)：
@@ -26,6 +27,7 @@ Provide relevant kernel learning materials for small partners engaged in Postgre
 
 
 # 相关博客链接(Related Blog Links)：
+0. 数据库内核月报： http://mysql.taobao.org/monthly/
 1. 德哥： http://blog.163.com/digoal@126/
 2. 谭峰(francs)： https://postgres.fun
 3. 陈立群(kenyon)： http://my.oschina.net/Kenyon
@@ -57,3 +59,10 @@ Provide relevant kernel learning materials for small partners engaged in Postgre
 3. https://space.bilibili.com/521087625/video /* 中国PostgreSQL分会 */
 4. https://space.bilibili.com/310191812/video /* digoal */
 5. https://space.bilibili.com/250508046/video /* 北京CUUG */
+
+# 中国用户大会链接(China User Conference Link)：
+1. [2020年 PostgreSQL中国大会直播通道，点击前往](https://mp.weixin.qq.com/s?__biz=MjM5MjMxMTMyOA==&mid=2649189934&idx=1&sn=3878b24fdbc0879001bd1fcb9bc0154d&chksm=bebbff6189cc767711839e76cb13b92520d2d4be2f63387746ec6a0e0621a0f0da7b463dc23f&xtrack=1&scene=0&subscene=10000&clicktime=1623144730&enterid=1623144730&ascene=7&devicetype=android-29&version=28000694&nettype=cmnet&abtest_cookie=AAACAA==&lang=zh_CN&exportkey=AbPmDSsD67AWhjzBiAWo6ck=&pass_ticket=3IQ0sXFeF/zw03iTYGq/yAvCY422o/dRhiiwFhhT2dyh7NtOgjQTVkKxuT/gs1Ax&wx_header=1)
+2. [2019年 第九届PostgreSQL中国技术大会，点击前往](https://developer.aliyun.com/live/1708?spm=a2c6h.12873587.0.0.42f952c2dtRw0d)
+3. [2018年 2018Postgres中国用户大会——16日分会场2，点击前往](https://developer.aliyun.com/live/664) or [象行中国 创领开源 PostgreSQL2018技术分享及交流](https://www.itdks.com/Act/apply?id=2546&from=search)
+4. [2017年 PostgreSQL 2017中国技术大会，点击前往](https://www.itdks.com/Course/detail?id=6050)
+5. [2016年 PostgreSQL 2016中国用户大会，点击前往](https://www.itdks.com/Act/apply?id=1342&from=search)
