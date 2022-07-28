@@ -1,6 +1,11 @@
 # PostgreSQL-kernel-development-data-sharing
 
-# 相关仓库链接：
+# 本仓库的说明(Description of this warehouse)：
+为从事于PostgreSQL/GreenPlum数据库内核开发的小伙伴们汇总提供相关内核学习资料。我们会一直更新该仓库，也欢迎大家贡献资料 视频以及相关博客！
+Provide relevant kernel learning materials for small partners engaged in PostgreSQL/GreenPlum database kernel development. We will always update the repository, and welcome everyone to contribute materials, videos and related blogs!
+<hr>
+
+# 相关仓库链接(Related warehouse links)：
 1. https://github.com/postgres/postgres
 2. https://github.com/greenplum-db/gpdb
 3. https://github.com/postgrespro/
@@ -9,7 +14,7 @@
 6. https://github.com/IvorySQL/
 
 
-# 相关文档链接：
+# 相关文档链接(Related Documentation Links)：
 0. https://momjian.us/
 1. https://www.postgresql.org/docs/current/index.html
 2. http://www.postgres.cn/docs/14/index.html
@@ -20,7 +25,24 @@
 7. https://postgrespro.com/community/books/internals
 
 
-# 相关视频链接：
+# 相关博客链接(Related Blog Links)：
+1. 德哥： http://blog.163.com/digoal@126/
+2. 谭峰(francs)： https://postgres.fun
+3. 陈立群(kenyon)： http://my.oschina.net/Kenyon
+4. 唐成(osdba): http://blog.osdba.net/
+5. 那海蓝蓝： http://blog.163.com/li_hx/
+6. 有理想的猪： http://my.oschina.net/quanzl/blog
+7. 大肚熊： http://www.cnblogs.com/daduxiong/category/257029.html
+8. Stephen_Liu： http://www.cnblogs.com/stephen-liu74/
+9. David_Tang： http://www.cnblogs.com/mchina/tag/postgresql/
+10. beigang: http://blog.csdn.net/beiigang
+11. 阿福Chris： https://blog.csdn.net/chrisy521?type=blog
+12. mingjie73： https://blog.csdn.net/jackgo73?type=blog
+13. 小飞宇： https://blog.csdn.net/shenyuflying?type=blog
+14. shujiezhang： https://blog.csdn.net/shujiezhang?type=blog
+
+
+# 相关视频链接(Related Video Links)：
 1. https://www.youtube.com/c/postgresopen/videos
 2. https://www.youtube.com/c/GreenplumDatabase
 3. https://www.youtube.com/c/Citusdata
@@ -28,7 +50,7 @@
 5. https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA
 6. https://www.youtube.com/c/2ndQuadrantPostgreSQL/playlists
 
-<hr>
+<br>
 
 1. https://space.bilibili.com/601631547/video /* PostgreSQL中文社区 */
 2. https://space.bilibili.com/489184136/video /* Greenplum中文社区 */
