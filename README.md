@@ -42,7 +42,12 @@ Provide relevant kernel learning materials for small partners engaged in Postgre
 11. 阿福Chris： https://blog.csdn.net/chrisy521?type=blog
 12. mingjie73： https://blog.csdn.net/jackgo73?type=blog
 13. 小飞宇： https://blog.csdn.net/shenyuflying?type=blog
-14. shujiezhang： https://blog.csdn.net/shujiezhang?type=blog
+14. shujiezhang： https://blog.csdn.net/shujiezhang?type=blog (http://zhangshujie.cn/)
+15. PostgresPro: https://postgrespro.com/blog
+16. Cybertec: https://www.cybertec-postgresql.com/en/blog/
+17. PostgreSQL Plant: https://planet.postgresql.org/
+18. Hubert Lubaczewski: https://www.depesz.com/
+19. Andreas Scherbaum: https://andreas.scherbaum.la/blog/
 
 
 # 相关视频链接(Related Video Links)：
