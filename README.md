@@ -7,24 +7,24 @@ Provide relevant kernel learning materials for small partners engaged in Postgre
 <hr>
 
 # 相关仓库链接(Related warehouse links)：
-1. https://github.com/postgres/postgres
-2. https://github.com/greenplum-db/gpdb
-3. https://github.com/postgrespro/
-4. https://github.com/citusdata/
-5. https://github.com/timescale/
-6. https://github.com/IvorySQL/
+1. https://github.com/postgres/postgres /* postgres仓库 */
+2. https://github.com/greenplum-db/gpdb /* greenplum仓库 */
+3. https://github.com/postgrespro/ /* 俄罗斯postgrespro */
+4. https://github.com/citusdata/ /* citus */
+5. https://github.com/timescale/ /* 时序数据库插件 */
+6. https://github.com/IvorySQL/ /* 翰高ivorysql仓库 */
 7. https://github.com/tangwz/db-monthly /* 阿里云数据库内核月报分类整理 */
 
 
 # 相关文档链接(Related Documentation Links)：
-0. https://momjian.us/
-1. https://www.postgresql.org/docs/current/index.html
-2. http://www.postgres.cn/docs/14/index.html
-3. https://github.com/digoal/blog
-4. https://cn.greenplum.org/docs/
+0. https://momjian.us/ /* postgres大管家 */
+1. https://www.postgresql.org/docs/current/index.html /* postgres手册 */
+2. http://www.postgres.cn/docs/14/index.html /* postgres中文手册 */
+3. https://github.com/digoal/blog /* 德哥博客 强烈建议 */
+4. https://cn.greenplum.org/docs/ /* greenplum文档 */
 5. https://weread.qq.com/web/reader/baa329f0718eba0cbaabed6kc81322c012c81e728d9d180
-6. https://www.interdb.jp/pg/
-7. https://postgrespro.com/community/books/internals
+6. https://www.interdb.jp/pg/ /* 日本著名PostgreSQL专家Hironobu SUZUKI 《PostgreSQL指南：内幕探索》 */
+7. https://postgrespro.com/community/books/internals /* 俄罗斯postgrespro的内核文档 */
 
 
 # 相关博客链接(Related Blog Links)：
@@ -51,6 +51,7 @@ Provide relevant kernel learning materials for small partners engaged in Postgre
 
 
 # 相关视频链接(Related Video Links)：
+/* youtube */
 1. https://www.youtube.com/c/postgresopen/videos
 2. https://www.youtube.com/c/GreenplumDatabase
 3. https://www.youtube.com/c/Citusdata
@@ -60,6 +61,7 @@ Provide relevant kernel learning materials for small partners engaged in Postgre
 
 <br>
 
+/* bilibili */
 1. https://space.bilibili.com/601631547/video /* PostgreSQL中文社区 */
 2. https://space.bilibili.com/489184136/video /* Greenplum中文社区 */
 3. https://space.bilibili.com/521087625/video /* 中国PostgreSQL分会 */
