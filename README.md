@@ -2,6 +2,7 @@
 
 # 本仓库的说明(Description of this warehouse)：
 为从事于PostgreSQL/GreenPlum数据库内核开发的小伙伴们汇总提供相关内核学习资料。我们会一直更新该仓库，也欢迎大家贡献资料 视频以及相关博客！
+
 Provide relevant kernel learning materials for small partners engaged in PostgreSQL/GreenPlum database kernel development. We will always update the repository, and welcome everyone to contribute materials, videos and related blogs!
 <hr>
 
@@ -28,7 +29,7 @@ Provide relevant kernel learning materials for small partners engaged in Postgre
 
 # 相关博客链接(Related Blog Links)：
 0. 数据库内核月报： http://mysql.taobao.org/monthly/
-1. 德哥： http://blog.163.com/digoal@126/
+1. digoal： https://github.com/digoal/blog
 2. 谭峰(francs)： https://postgres.fun
 3. 陈立群(kenyon)： http://my.oschina.net/Kenyon
 4. 唐成(osdba): http://blog.osdba.net/
